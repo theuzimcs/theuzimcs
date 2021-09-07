@@ -8,11 +8,13 @@
 
 - 📫 How to reach me: instagram ➡️ @theuzimv
 
+ <div>
+   <a href="https://github.com/theuzimcs">
+     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=theuzimcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> 
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=theuzimcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theuzimcs&layout=compact&langs_count=7&theme=dracula" />
+</div>
 "
 Success comes from wanting, determination and persistence in reaching a goal. Even not reaching the target, who seeks and overcomes obstacles, at least will do admirable things. "  José de Alecar 
 🧐
 
-<!---
-theuzimcs/theuzimcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
