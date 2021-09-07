@@ -7,7 +7,7 @@
 - 🔍 Feel free here OK?
 
   <div>
-  <a href="https://instagram.com/theuzimv" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+  <a href="https://instagram.com/theuzimv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-vinícius-carvalho-sousa-3a32b621a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div>
 
