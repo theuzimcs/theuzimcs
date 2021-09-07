@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theuzimcs
 
-- 🔥 I am a student at UNA
+- 🔥 I am a student at UNA, começando Java
 
 - ⏳ I am in process to be a successful dev one day 🤓
 
