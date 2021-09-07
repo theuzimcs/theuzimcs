@@ -6,7 +6,8 @@
 
 - 🔍 Feel free here OK? 
 
-  <a href="https://instagram.com/theuzimv" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+  <a href="https://instagram.com/theuzimv" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a
+  
 
  <div>
    <a href="https://github.com/theuzimcs"> 
