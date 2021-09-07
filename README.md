@@ -7,10 +7,8 @@
 - 🔍 Feel free here OK?
 
 <div>
-
   <a href="https://instagram.com/theuzimv" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a
-  
-<div>
+  <div>
 
  <div>
    <a href="https://github.com/theuzimcs"> 
