@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theuzimcs
 
-- 🔥 I am a student at UNA, começando Java
+- 🔥 I am a student at PITAGORAS, I studied a little Java, now I study Python
 
 - ⏳ I am in process to be a successful dev one day 🤓
 
